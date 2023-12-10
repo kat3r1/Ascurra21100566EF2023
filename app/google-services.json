@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87119030410",
+    "project_id": "ascurra21100566ef2023",
+    "storage_bucket": "ascurra21100566ef2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87119030410:android:357709ad0a192eb14be573",
+        "android_client_info": {
+          "package_name": "com.example.ascurra21100566ef2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEQm8C5aEOwCNlNSfaybu-KdtxVgPrz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
